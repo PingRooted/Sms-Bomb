@@ -32,14 +32,14 @@ YOU CAN ALSO SEND MAIL,! WITH THIS TOOL.!</i></b>
 * `pkg install curl -y`
 * `pkg install python -y`
 * `pip install requests`
-* `curl https://codeload.github.com/mao2116/tbomb_mao/zip/refs/heads/main --output mao.zip`
+* `curl https://codeload.github.com/pingrooted/tbomb_mao/zip/refs/heads/main --output mao.zip`
 * `unzip mao.zip ; rm -rf mao.zip`
 * `mv tbomb_mao-main tbomb_mao`
 
 ### ONE CLICK INSTALLATION :
 
 
-* `apt update ; apt install python -y ; apt install curl -y ; pip install requests ; curl https://codeload.github.com/mao2116/tbomb_mao/zip/refs/heads/main --output mao.zip ; unzip mao.zip ; rm -rf mao.zip ; mv tbomb_mao-main tbomb_mao`
+* `apt update ; apt install python -y ; apt install curl -y ; pip install requests ; curl https://codeload.github.com/pingrooted/tbomb_mao/zip/refs/heads/main --output mao.zip ; unzip mao.zip ; rm -rf mao.zip ; mv tbomb_mao-main tbomb_mao`
 
 
 
@@ -71,12 +71,12 @@ YOU CAN ALSO SEND MAIL,! WITH THIS TOOL.!</i></b>
 
 ### FOR UPDATE TOOL ():
 
-* `cd ; rm -rf tbomb_mao ; apt update ; apt install python -y ; apt install curl -y ; pip install requests ; curl https://codeload.github.com/mao2116/tbomb_mao/zip/refs/heads/main --output mao.zip ; unzip mao.zip ; rm -rf mao.zip ; mv tbomb_mao-main tbomb_mao`
+* `cd ; rm -rf tbomb_mao ; apt update ; apt install python -y ; apt install curl -y ; pip install requests ; curl https://codeload.github.com/pingrooted/tbomb_mao/zip/refs/heads/main --output mao.zip ; unzip mao.zip ; rm -rf mao.zip ; mv tbomb_mao-main tbomb_mao`
 
 
 
 ### ONE CLICK INSTALLATION (OLD AND SLOW):
-* `apt-get update -y && pkg install python -y && pip install requests && pkg install git -y && git clone https://github.com/mao2116/tbomb_mao && cd tbomb_mao`
+* `apt-get update -y && pkg install python -y && pip install requests && pkg install git -y && git clone https://github.com/PingRooted/Sms-Bomb.git && cd tbomb_mao`
 
 
 
@@ -91,13 +91,13 @@ YOU CAN ALSO SEND MAIL,! WITH THIS TOOL.!</i></b>
 </br>
 </br>
 <p align="center">
-<a href="https://www.facebook.com/mao2116/">
+<a href="https://www.facebook.com/zahidshurma/">
   <img width="50px" height="50px" src="https://raw.githubusercontent.com/fh-rabbi/Hack-Box/main/images/fb.png"><!I JUST USE A PIC FROM FH-RABBI >
 <a/>
 <p/>  
 
 </b>
-<b> mao2116 </b>
+<b> Ping Rooted </b>
 
 ## WARNING : 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
